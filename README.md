@@ -25,13 +25,13 @@ Laudos médicos muitas vezes são escritos de forma livre e não padronizada, di
 ---
 
 ## Estrutura
-📁 nlp-laudos-medicos/
-├── nlp_laudos_similaridade.py # Script principal
-├── requirements.txt # Dependências do projeto
-├── data/
-│ └── laudos_exemplo.csv # Exemplo de dados clínicos
-└── notebooks_antigos/
-└── Trabalho_Final_NLP_Elisangela_Priscila.ipynb
+nlp-laudos-medicos/
+  nlp_laudos_similaridade.py # Script principal
+  requirements.txt # Dependências do projeto
+  data/
+      base_resultados_1.xlsx # Exemplo de resultados
+  notebooks_antigos/
+      Trabalho_Final_NLP_Elisangela_Priscila.ipynb
 
 ---
 
