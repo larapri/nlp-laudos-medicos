@@ -25,12 +25,17 @@ Laudos médicos muitas vezes são escritos de forma livre e não padronizada, di
 ---
 
 ## Estrutura
+
+```
 nlp-laudos-medicos/
-├── data/base_resultados_1.xlsx
-├── notebooks_antigos/Trabalho_Final_NLP_Elisangela_Priscila.ipynb
+├── data/
+│   └── base_resultados_1.xlsx
+├── notebooks_antigos/
+│   └── Trabalho_Final_NLP_Elisangela_Priscila.ipynb
 ├── main.py
-├── README.md
-└── requirements.txt
+├── requirements.txt
+└── README.md
+```
 
 ---
 
