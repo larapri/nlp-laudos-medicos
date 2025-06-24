@@ -2,6 +2,7 @@
 ## Análise de Similaridade em Laudos Médicos
 
 Este projeto utiliza técnicas de NLP (Processamento de Linguagem Natural) e embeddings em português para analisar a similaridade entre expressões utilizadas em laudos laboratoriais e classificar automaticamente os resultados.
+Projeto feito para a pós de Ciência de Dados e Big Data da PUC Minas em jun/2020.
 
 ---
 
