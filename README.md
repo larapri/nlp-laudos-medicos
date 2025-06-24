@@ -32,7 +32,7 @@ nlp-laudos-medicos/
 │   └── base_resultados_1.xlsx
 ├── notebooks_antigos/
 │   └── Trabalho_Final_NLP_Elisangela_Priscila.ipynb
-├── main.py
+├── nlp_laudos_similaridade.py
 ├── requirements.txt
 └── README.md
 ```
