@@ -39,7 +39,7 @@ Laudos médicos muitas vezes são escritos de forma livre e não padronizada, di
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seunome/nlp-laudos-medicos.git
+git clone https://github.com/larapri/nlp-laudos-medicos.git
 cd nlp-laudos-medicos
 
 # Instale os requisitos
